@@ -7,7 +7,6 @@ We used a comprehensive set of historical data encompassing adjusted closing pri
 **Methodology :**
 ![Screenshot 2024-06-10 013856](https://github.com/eshaagrawal1/Stock-Market-Network-Analysis/assets/90109712/6370740a-1738-407b-8eb4-421c135ef1ba)
 
-
 **Results :**
 ![Screenshot 2024-06-10 014051](https://github.com/eshaagrawal1/Stock-Market-Network-Analysis/assets/90109712/c4a9cbcd-f0b1-4dad-ae2c-29e347b03cd8)
 ![Screenshot 2024-06-10 014137](https://github.com/eshaagrawal1/Stock-Market-Network-Analysis/assets/90109712/c50265eb-65ab-4471-afcd-b62f36aa0f96)
